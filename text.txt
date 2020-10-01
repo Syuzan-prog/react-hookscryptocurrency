@@ -1,4 +1,0 @@
-sHello
-^X
-get Help
-
